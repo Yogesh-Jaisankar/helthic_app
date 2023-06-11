@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "651055902109",
+    "project_id": "health-yk",
+    "storage_bucket": "health-yk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651055902109:android:615fe5901be1c0849f1374",
+        "android_client_info": {
+          "package_name": "com.example.helthic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651055902109-cum1oe04tls7mf5hqb909s74ivcbni2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.helthic",
+            "certificate_hash": "9ee077b268244b4a8723722c380e3f0c9a3c25b7"
+          }
+        },
+        {
+          "client_id": "651055902109-c1i0sq105pcefuvi08tfvhotgdqsn265.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlxoR9iqbA3ag80xm9w0yj76W9R__mJr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651055902109-c1i0sq105pcefuvi08tfvhotgdqsn265.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
